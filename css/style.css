@@ -2,9 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container-wrapper {
-
-}
+.container-wrapper {}
 
 .container-wrapper--red {
     background-color: #f05f40;
@@ -194,4 +192,17 @@ body {
     font-weight: bold;
     margin: 10px;
     color: #f05f40;
+}
+
+/* Table */
+
+.table {
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+}
+
+.table td {
+    padding-right: 25px;
+    padding-left: 25px;
 }
