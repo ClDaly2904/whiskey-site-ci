@@ -2,8 +2,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container-wrapper {}
-
 .container-wrapper--red {
     background-color: #f05f40;
     color: white;
@@ -205,4 +203,12 @@ body {
 .table td {
     padding-right: 25px;
     padding-left: 25px;
+}
+
+/* MailChip */
+#mc_embed_signup {
+    background: #fff;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+    width: 600px;
 }
